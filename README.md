@@ -1,5 +1,6 @@
 
-![Logo](https://media.discordapp.net/attachments/1115607515456086117/1163205123737145427/hoopper_nobg_50-removebg-preview.png) # HopperMC
+![Logo](https://media.discordapp.net/attachments/1115607515456086117/1163205123737145427/hoopper_nobg_50-removebg-preview.png)
+# HopperMC
 
 ## Authors
 
