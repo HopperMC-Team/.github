@@ -66,7 +66,3 @@ Please adhere to this project's `code of conduct`.
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
-
-
-![Logo](https://media.discordapp.net/attachments/1115607515456086117/1163205123737145427/hoopper_nobg_50-removebg-preview.png)
-
