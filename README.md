@@ -68,4 +68,4 @@ Please adhere to this project's `code of conduct`.
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 ## Partners
-![Zenith](https://media.discordapp.net/attachments/1115607515456086117/1153261858455818290/20230918_131733.png)
+[![Zenith](https://media.discordapp.net/attachments/1115607515456086117/1153261858455818290/20230918_131733.png)](https://zenithhost.org)
